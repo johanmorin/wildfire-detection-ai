@@ -9,7 +9,7 @@ The idea for this project is to detect wildfires by analysing landscape images. 
 
 ## Background
 
-Wildfires causes massive damages to forests and wildlife every year. One major problem is that wildfires often start in remote areas where they can spread quickly before being observed and reported. The idea is to create a system for automated surveillance of forests using landscape images that can detect fires and provide vital information to firefighters.
+Wildfires causes massive damages to forests and wildlife every year. One major problem is that wildfires often start in remote areas where they can spread quickly before being observed and reported. The idea is to create a system for automated surveillance of forests using satellite images that can detect fires and provide vital information to firefighters.
 
 The primary goals for this project is to:
 * Detect wildfires from landscape images and display this information on a map.
